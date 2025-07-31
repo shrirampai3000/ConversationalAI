@@ -28,5 +28,3 @@ This project is a ChatGPT-style conversational platform built using the MERN sta
 ## Usage
 Start chatting with the AI in a real-time interface powered by OpenAI’s language models.
 
-## License
-This project is licensed under the MIT License.
